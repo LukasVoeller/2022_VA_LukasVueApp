@@ -33,6 +33,12 @@ npm install
 npm run dev
 ```
 
+### Start API
+
+```sh
+npx bookmonkey-api
+```
+
 ### Type-Check, Compile and Minify for Production
 
 ```sh

@@ -2,6 +2,13 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
+<p float="left">
+<img src="https://github.com/LukasVoeller/VA_2022_LukasVueApp/blob/main/img/LukasVueApp_Home.png" width="49%"/>
+<img src="https://github.com/LukasVoeller/VA_2022_LukasVueApp/blob/main/img/LukasVueApp_BookList.png" width="49%"/>
+<img src="https://github.com/LukasVoeller/VA_2022_LukasVueApp/blob/main/img/LukasVueApp_InfoBoxCluster.png" width="49%"/>
+<img src="https://github.com/LukasVoeller/VA_2022_LukasVueApp/blob/main/img/LukasVueApp_MouseCursor.png" width="49%"/>
+</p>
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).

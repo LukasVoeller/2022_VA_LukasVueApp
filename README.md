@@ -1,6 +1,6 @@
 # LukasVueApp
 
-This template should help get you started developing with Vue 3 in Vite.
+A Vue.js App to add, delete, edit and view books via API. Dynamic CSS to randomly change the color of boxes as well as a mouse cursor tracker are also included.
 
 <p float="left">
 <img src="https://github.com/LukasVoeller/VA_2022_LukasVueApp/blob/main/img/LukasVueApp_Home.png" width="49%"/>
